@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           TOEFL Reading Teaching Assistant
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          ---By Yizheng Liu.
+          -----By Yizheng Liu.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
